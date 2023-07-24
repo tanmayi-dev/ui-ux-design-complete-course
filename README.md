@@ -12,7 +12,7 @@ UI UX Design Concepts and Notes
 - [Week 5 : UI Design Process and UI Design Research](https://www.youtube.com/watch?v=Yh6NsY0JH-w)
 - [Week 6 : Design System](https://www.youtube.com/watch?v=BqDtb0N0jY0)
 - [Week 7 : Hands-on with Figma](https://www.youtube.com/watch?v=Vqjzygf5M-w&list=PLJ9slPY7ubeOnBUbqV4nVfgaNK1jsBrqd&index=8)
-- [Week 8 : ](https://www.youtube.com/watch?v=eG_6TzUo-rE&list=PLJ9slPY7ubeOnBUbqV4nVfgaNK1jsBrqd&index=9)
+- [Week 8 : Conclusion](https://www.youtube.com/watch?v=eG_6TzUo-rE&list=PLJ9slPY7ubeOnBUbqV4nVfgaNK1jsBrqd&index=9)
 
 # Course Curriculum
 
